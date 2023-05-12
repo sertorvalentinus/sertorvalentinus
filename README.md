@@ -1,7 +1,4 @@
 # hello!
-- i hope to become an backend engineer someday :(
-- currently learning phyton and js/ts
-- feel free to suggest me courses and offer me advice :)
+I am a student from Jakarta, currently aspiring to becoming a full-stack developer. Feel free to check my socials if you want to reach out to me!
 
-(forgot password to old github profile :p) <br>
-ordo#1549
+@reynerfatha on IG
